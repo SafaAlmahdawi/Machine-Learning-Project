@@ -1,35 +1,45 @@
-# Machine-Learning-Project
 
 
-Welcome to the Machine Learning Honors Project!
+# Machine Learning Project: Rainfall Prediction
 
-This project provides an opportunity to apply various machine learning algorithms to predict rainfall using a dataset sourced from the Australian Government's Bureau of Meteorology.
+Welcome to the Machine Learning Project!
 
-Objective
-The main goal of this project is to create a classifier that predicts whether there will be rain the following day based on historical weather data.
+## Objective
 
-Dataset
-The dataset used in this project can be found here. It includes various weather-related features such as temperature, humidity, wind speed, and more.
+The primary goal of this project is to develop a classifier predicting rainfall the following day using historical weather data.
 
-Data Preprocessing
-Ensure data cleanliness: Handle missing values, encode categorical variables, and perform feature scaling if necessary.
-Algorithms Used
-The project involves applying several classification algorithms to build predictive models. The algorithms used include:
+## Dataset
 
-Linear Regression
-K-Nearest Neighbors (KNN)
-Decision Trees
-Logistic Regression
-Support Vector Machines (SVM)
-Model Evaluation Metrics
+The dataset for this project originates from the Australian Government's Bureau of Meteorology and contains various weather-related features like temperature, humidity, and wind speed. 
 
+## Data Preprocessing
 
-Evaluation of the models will be based on the following metrics:
+To ensure data quality, the following steps will be taken:
+- Handle missing values
+- Encode categorical variables
+- Perform feature scaling if required
 
-Accuracy Score
-Jaccard Index
-F1-Score
-LogLoss (if applicable)
-Mean Absolute Error
-Mean Squared Error
-R2-Score
+## Algorithms Used
+
+The project involves implementing several classification algorithms:
+1. Linear Regression
+2. K-Nearest Neighbors (KNN)
+3. Decision Trees
+4. Logistic Regression
+5. Support Vector Machines (SVM)
+
+## Model Evaluation Metrics
+
+The models will be evaluated based on:
+- Accuracy Score
+- Jaccard Index
+- F1-Score
+- LogLoss (if applicable)
+- Mean Absolute Error
+- Mean Squared Error
+- R2-Score
+
+### Deliverables
+
+- Jupyter notebook with code implementation
+
