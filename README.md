@@ -1,7 +1,9 @@
 # Machine-Learning-Project
 
 
-Welcome to the Machine Learning Honors Project! This project provides an opportunity to apply various machine learning algorithms to predict rainfall using a dataset sourced from the Australian Government's Bureau of Meteorology.
+Welcome to the Machine Learning Honors Project!
+
+This project provides an opportunity to apply various machine learning algorithms to predict rainfall using a dataset sourced from the Australian Government's Bureau of Meteorology.
 
 Objective
 The main goal of this project is to create a classifier that predicts whether there will be rain the following day based on historical weather data.
@@ -20,6 +22,8 @@ Decision Trees
 Logistic Regression
 Support Vector Machines (SVM)
 Model Evaluation Metrics
+
+
 Evaluation of the models will be based on the following metrics:
 
 Accuracy Score
